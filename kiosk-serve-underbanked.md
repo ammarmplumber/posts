@@ -1,6 +1,6 @@
 ---
 title: 'Payment kiosks help local governments serve the underbanked'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-12-13T17:01:34+07:00
 layout: post
 ---
 
@@ -8,26 +8,27 @@ Amid the COVID-19 pandemic and a growing push to go digital, local governments f
 
 Many low-income, unbanked, and underbanked citizens pay their bills, taxes, tickets, and more in-person, often using cash. Modernization efforts that solely focus on digital payments and ignore in-person solutions is likely to put these vulnerable communities at a disadvantage.
 
-Using bill payment kiosks, governments can accommodate these in-person, often cash-paying customers' unique needs and ensure they do not get left behind in the rush to go digital.
+Using [bill payment kiosks](https://www.adcompsystems.com/payment-kiosk.html), governments can accommodate these in-person, often cash-paying customers' unique needs and ensure they do not get left behind in the rush to go digital.
 
 <img src="/images/posts/book.jpeg" loading="lazy"
      width="30%" />
 
-Research Shows Many Citizens Still Pay Bills In Person, Using Cash
+<h2>Research Shows Many Citizens Still Pay Bills In Person, Using Cash</h2>
 
 All citizens do not use and benefit equally from online payment services.
 
-A Federal Reserve Bank of Boston study found that low-income consumers “are more likely to pay in person, use more cash, and are significantly less likely to set up automated bill payments or to pay online.”
+[A Federal Reserve Bank of Boston study](https://www.bostonfed.org/publications/research-department-working-paper/2020/consumer-payment-choice-for-bill-payments.aspx) found that low-income consumers “are more likely to pay in person, use more cash, and are significantly less likely to set up automated bill payments or to pay online.”
 
-Nearly 22% of U.S. adults are either unbanked or underbanked. 81% of unbanked citizens — who do not use or have access to financial services such as bank accounts or credit cards —- pay their bills using cash or prepaid cards. Similarly, underbanked citizens —- who have a bank account but use alternative, generally more costly, financial services — also have a higher share of bills paid in cash compared with fully banked citizens.
+Nearly [22% of U.S. adults](https://www.federalreserve.gov/publications/2019-economic-well-being-of-us-households-in-2018-banking-and-credit.htm) are either unbanked or underbanked. 81% of unbanked citizens — who do not use or have access to financial services such as bank accounts or credit cards —- pay their bills using cash or prepaid cards. Similarly, underbanked citizens —- who have a bank account but use alternative, generally more costly, financial services — also have a higher share of bills paid in cash compared with fully banked citizens.
 
 If local governments do not offer a convenient, in-person payment option, these citizens are likely to rely on alternative solutions, such as check-cashing stores, to pay their bills. Citizens using these services are often subjected to costly fees and risk facing penalties or service interruptions due to delays in posting payments.
 
 Besides being an inconvenience to citizens, lack of reliable in-person, cash payment options also hurt local governments by causing delays in the revenue collection process. Further, staff have to devote additional time and resources to issuing and resolving penalties or service interruptions.
 
-Self-Service Kiosks Provide An Inclusive, Modern In-Person Payment Experience
+<h2>Self-Service Kiosks Provide An Inclusive, Modern In-Person Payment Experience</h2>
 
-bill payment kiosk, unbanked, underbanked, kiosk, govtech
+<img src="/images/posts/drive-thru.webp" loading="lazy"
+     width="30%" />
 
 Self-service kiosks are a reliable in-person payment solution that can be bilingual, work around-the-clock, and accept cash, check, and credit card. All citizens can pay their government bills at a kiosk after regular business hours using a payment method that works for them, including cash.
 
@@ -41,5 +42,7 @@ Local governments have an obligation to ensure accessible and equitable service 
 
 With self-service kiosks, local governments can modernize the in-person payment experience, securely collect cash payments, and extend the reach of their services to benefit vulnerable residents.
 
-To learn more about AdComp’s self-service kiosk, schedule a product demo here.
+To learn more about AdComp’s self-service kiosk, [schedule a product demo here](https://www.adcompsystems.com/contactus.html).
 
+<img src="/images/posts/subscribe.webp" loading="lazy"
+     width="30%" />
