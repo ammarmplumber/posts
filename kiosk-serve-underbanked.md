@@ -44,5 +44,6 @@ With self-service kiosks, local governments can modernize the in-person payment 
 
 To learn more about AdComp’s self-service kiosk, [schedule a product demo here](https://www.adcompsystems.com/contactus.html).
 
+<a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" />
+     width="30%" /></a>

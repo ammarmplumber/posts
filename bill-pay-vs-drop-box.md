@@ -16,5 +16,6 @@ Self-service kiosks are a viable solution that facilitates after-hours, in-perso
 
 To learn more about our kiosk JACK, schedule a [demo](https://www.adcompsystems.com/contactus.html) here.
 
+<a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" />
+     width="30%" /></a>

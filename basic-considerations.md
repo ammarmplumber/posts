@@ -45,5 +45,6 @@ Work with an [experienced kiosk manufacturer](https://www.adcompsystems.com/test
 
 To request a demo of our kiosk, [click here](https://www.adcompsystems.com/contactus.html).
 
+<a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" />
+     width="30%" /></a>

@@ -31,5 +31,6 @@ By increasing convenience to citizens, and as a result compliance, local governm
 
 To see how JACK works, schedule a product demo [here.](https://www.adcompsystems.com/contactus.html)
 
+<a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" />
+     width="30%" /></a>

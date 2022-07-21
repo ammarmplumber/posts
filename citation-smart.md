@@ -33,5 +33,6 @@ This system is a necessary step forward to make it much easier and more convenie
 
 To see how Citation Smart works, [schedule a product demo here.](https://www.adcompsystems.com/contactus.html)
 
+<a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" />
+     width="30%" /></a>
