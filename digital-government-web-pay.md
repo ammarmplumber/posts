@@ -4,7 +4,7 @@ date: 2021-11-23T17:01:34+07:00
 layout: post
 ---
 
-<img src="/images/posts/wpb-comp.webp" loading="lazy"
+<img src="/images/posts/web-pay-blog.webp" loading="lazy"
      width="30%" />
 
 Local governments are rushing to go digital, and for good reason. The COVID-19 pandemic forced citizens and businesses to move online, making digital government a necessity to deliver public services and safely collect payments. Further, citizens paying utility bills, taxes, citations, etc, now expect their local government to provide the same customer-friendly payment experience that they see in the private sector. So, now more than ever, as most citizens conduct a majority of their transactions online, local governments have the opportunity to transform the payment experience by implementing user-friendly, [mobile-enabled web pay solutions](https://www.adcompsystems.com/online-payment.html).
@@ -29,10 +29,10 @@ We make it easy for citizens to look up their balance by offering multiple ident
 
 We provide payment reminder services that can be integrated with our web pay solution. Through these periodic text message notifications, citizens get reminders to pay their [utility bills, citations](https://www.adcompsystems.com/utility-express.html), and taxes with a link to the web payments portal.
 
-<img src="/images/posts/CS-comp.webp" loading="lazy"
+<img src="/images/posts/CS-blog1.webp" loading="lazy"
      width="30%" />
 
-<img src="/images/posts/UE-comp.webp" loading="lazy"
+<img src="/images/posts/UE-blog1.webp" loading="lazy"
      width="30%" />
 
 This system has received [positive feedback](https://www.adcompsystems.com/Citation-Smart-For-Municipal-Courts.html) from citizens who find it helpful to receive reminders to ensure they do not miss a payment deadline amid the chaos of a fast-paced schedule.

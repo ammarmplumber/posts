@@ -8,7 +8,7 @@ Everyone appreciates a good memory cue. As we navigate through busy schedules, w
 
 This week, in our ‘Convenience Fosters Compliance’ series, we’re talking about Citation Smart — how it works, what citizens have to say, and why municipal courts should adopt this system.
 
-<img src="/images/posts/CS-comp.webp" loading="lazy"
+<img src="/images/posts/CS-blog1.webp" loading="lazy"
      width="30%" />
 
 <h2>How Does Citation Smart Work?</h2>

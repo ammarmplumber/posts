@@ -10,7 +10,7 @@ Many low-income, unbanked, and underbanked citizens pay their bills, taxes, tick
 
 Using [bill payment kiosks](https://www.adcompsystems.com/payment-kiosk.html), governments can accommodate these in-person, often cash-paying customers' unique needs and ensure they do not get left behind in the rush to go digital.
 
-<img src="/images/posts/book.jpeg" loading="lazy"
+<img src="/images/posts/drive-thru.webp" loading="lazy"
      width="30%" />
 
 <h2>Research Shows Many Citizens Still Pay Bills In Person, Using Cash</h2>
