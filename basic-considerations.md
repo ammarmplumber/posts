@@ -45,6 +45,8 @@ Work with an [experienced kiosk manufacturer](https://www.adcompsystems.com/test
 
 To request a demo of our kiosk, [click here](https://www.adcompsystems.com/contactus.html).
 
+
+<h3 style="text-align:left; font-weight: bold; margin-bottom: .2em;">Subscribe</h3>
 <form action="https://mm.adcompsystems.com/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">Name</label><br/>
 	<input type="text" name="name" id="name"/>
