@@ -9,7 +9,7 @@ Each week, we are going to spotlight a different AdComp product to describe how 
 
 Today, we’re talking about JACK, our 24/7 municipal self-service [payment kiosk.](https://www.adcompsystems.com/payment-kiosk.html)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JWiQ_7k_eD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWiQ_7k_eD4" title="YouTube video player" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>The Pain Point For Citizens:</h2>
 Citizens that pay bills, fines, or other fees in-person typically have to choose between two inconvenient payment options.
