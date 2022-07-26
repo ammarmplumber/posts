@@ -17,7 +17,7 @@ The self-service kiosk provides a convenient, fast, around-the-clock, in-person 
 <h2>What To Consider Before Getting A Utility Bill Payment Kiosk</h2>
 
 <img src="/images/posts/indooroutdoor.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 <h3>Explore All Funding Options</h3>
 Local governments may be able to use federal relief dollars under the CARES Act and American Rescue Plan Act (ARPA) to purchase kiosks and facilitate no-contact, in-person payments. Be sure to work with your finance team and legal advisors to identify funding within your budget or external options to buy the kiosk.

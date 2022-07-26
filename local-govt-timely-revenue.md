@@ -4,7 +4,7 @@ date: 2021-08-16T17:01:34+07:00
 layout: post
 ---
 <img src="/images/posts/blogs.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 For local governments, revenue collected via taxes, tickets and utility bill payments is key to funding essential public services. But, to ensure timely revenue collection, it’s important for governments to adopt a citizen-centric approach.
 
 Often, the process of making payments can be time-consuming and inconvenient for people. By providing multi-channel payment solutions, local governments can make it easy for citizens to find a payment method that works for them, leading to greater satisfaction and compliance.

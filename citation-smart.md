@@ -9,7 +9,7 @@ Everyone appreciates a good memory cue. As we navigate through busy schedules, w
 This week, in our ‘Convenience Fosters Compliance’ series, we’re talking about Citation Smart — how it works, what citizens have to say, and why municipal courts should adopt this system.
 
 <img src="/images/posts/CS-blog1.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 <h2>How Does Citation Smart Work?</h2>
 
@@ -35,4 +35,4 @@ To see how Citation Smart works, [schedule a product demo here.](https://www.adc
 
 <a href="https://www.adcompsystems.com/subscribe.html">
 <img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>
+     width="70%" /></a>

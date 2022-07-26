@@ -4,7 +4,7 @@ date: 2021-08-25T17:01:34+07:00
 layout: post
 ---
 <img src="/images/posts/kiosk.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 The onset of the COVID-19 pandemic compelled local governments to accelerate the pace of technology adoption. As many governments across cities and counties closed their offices or restricted in-person services to help protect staff and public health, several turned to contactless, [self-service kiosks](https://www.adcompsystems.com/payment-kiosk.html) to ensure all citizens would have the option to safely make in-person payments for utility bills, taxes, and other fees.
 

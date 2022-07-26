@@ -11,7 +11,7 @@ Many low-income, unbanked, and underbanked citizens pay their bills, taxes, tick
 Using [bill payment kiosks](https://www.adcompsystems.com/payment-kiosk.html), governments can accommodate these in-person, often cash-paying customers' unique needs and ensure they do not get left behind in the rush to go digital.
 
 <img src="/images/posts/drive-thru.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 <h2>Research Shows Many Citizens Still Pay Bills In Person, Using Cash</h2>
 
@@ -26,9 +26,6 @@ If local governments do not offer a convenient, in-person payment option, these 
 Besides being an inconvenience to citizens, lack of reliable in-person, cash payment options also hurt local governments by causing delays in the revenue collection process. Further, staff have to devote additional time and resources to issuing and resolving penalties or service interruptions.
 
 <h2>Self-Service Kiosks Provide An Inclusive, Modern In-Person Payment Experience</h2>
-
-<img src="/images/posts/drive-thru.webp" loading="lazy"
-     width="30%" />
 
 Self-service kiosks are a reliable in-person payment solution that can be bilingual, work around-the-clock, and accept cash, check, and credit card. All citizens can pay their government bills at a kiosk after regular business hours using a payment method that works for them, including cash.
 

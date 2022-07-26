@@ -21,7 +21,7 @@ For instance, if you need a kiosk that can scan the barcode on a bill or a kiosk
 Make sure your vendor is skilled in building [different kiosk models](https://www.adcompsystems.com/municipal-payment-kiosk.html) so they understand the nuances of each and incorporate features that make the machine accessible and easy to maintain for your staff, whether the kiosk is installed indoors, outdoors, or through the wall.
 
 <img src="/images/posts/solutions.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 <h3>- Can the kiosk vendor offer a solution that supports multiple payment options?</h3>
 Your vendor should have a kiosk that can be designed to accept cash, check, and credit cards so you have the option to choose and provide payment methods that would best serve your citizens.

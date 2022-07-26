@@ -30,10 +30,10 @@ We make it easy for citizens to look up their balance by offering multiple ident
 We provide payment reminder services that can be integrated with our web pay solution. Through these periodic text message notifications, citizens get reminders to pay their [utility bills, citations](https://www.adcompsystems.com/utility-express.html), and taxes with a link to the web payments portal.
 
 <img src="/images/posts/CS-blog1.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 <img src="/images/posts/UE-blog1.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 This system has received [positive feedback](https://www.adcompsystems.com/Citation-Smart-For-Municipal-Courts.html) from citizens who find it helpful to receive reminders to ensure they do not miss a payment deadline amid the chaos of a fast-paced schedule.
 
