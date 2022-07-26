@@ -5,7 +5,7 @@ layout: post
 ---
 
 <img src="/images/posts/web-pay-blog.webp" loading="lazy"
-     width="30%" />
+     width="70%" />
 
 Local governments are rushing to go digital, and for good reason. The COVID-19 pandemic forced citizens and businesses to move online, making digital government a necessity to deliver public services and safely collect payments. Further, citizens paying utility bills, taxes, citations, etc, now expect their local government to provide the same customer-friendly payment experience that they see in the private sector. So, now more than ever, as most citizens conduct a majority of their transactions online, local governments have the opportunity to transform the payment experience by implementing user-friendly, [mobile-enabled web pay solutions](https://www.adcompsystems.com/online-payment.html).
 
