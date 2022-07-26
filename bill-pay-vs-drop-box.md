@@ -20,7 +20,7 @@ To learn more about our kiosk JACK, schedule a [demo](https://www.adcompsystems.
 <form action="https://mm.adcompsystems.com/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">Name</label><br/>
 	<input type="text" name="name" id="name"/>
-	<br>
+	<br><br>
 	<label for="email">Email</label><br/>
 	<input type="email" name="email" id="email"/><br/><div style="display:none;">
 	<label for="hp">HP</label><br/>
