@@ -16,8 +16,3 @@ Since the launch of the easy-to-use website, there have been close to 10,000 reg
 With the ability to pay bills online, payments can occur faster, there is improved tracking, transactions are transparent, and time and costs are reduced. As we love to say, convenience fosters compliance!
 
 To learn more about AdComp's various payment solutions, [click here](https://www.adcompsystems.com/contactus.html)
-
-
-<a href="https://www.adcompsystems.com/subscribe.html">
-<img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>

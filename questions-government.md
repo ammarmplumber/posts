@@ -55,7 +55,3 @@ For years, local governments have chosen AdComp Systems Group as their payment k
 
 
 Learn more about our kiosk [here](https://www.adcompsystems.com/payment-kiosk.html).
-
-<a href="https://www.adcompsystems.com/subscribe.html">
-<img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>

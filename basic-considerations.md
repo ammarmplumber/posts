@@ -45,18 +45,3 @@ Work with an [experienced kiosk manufacturer](https://www.adcompsystems.com/test
 
 To request a demo of our kiosk, [click here](https://www.adcompsystems.com/contactus.html).
 
-
-<h3 style="text-align:left; font-weight: bold; margin-bottom: .2em;">Subscribe</h3>
-<form action="https://mm.adcompsystems.com/subscribe" method="POST" accept-charset="utf-8">
-	<label for="name">Name</label><br/>
-	<input type="text" name="name" id="name"/>
-	<br/>
-	<label for="email">Email</label><br/>
-	<input type="email" name="email" id="email"/><br/><div style="display:none;">
-	<label for="hp">HP</label><br/>
-	<input type="text" name="hp" id="hp"/>
-	</div>
-	<input type="hidden" name="list" value="Zxph4P28NIP269XFqiXQZw"/>
-	<input type="hidden" name="subform" value="yes"/>
-	<input type="submit" name="submit" id="submit"/>
-</form>
