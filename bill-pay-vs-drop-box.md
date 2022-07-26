@@ -28,5 +28,6 @@ To learn more about our kiosk JACK, schedule a [demo](https://www.adcompsystems.
 	</div>
 	<input type="hidden" name="list" value="Zxph4P28NIP269XFqiXQZw"/>
 	<input type="hidden" name="subform" value="yes"/>
+     <br><br>
 	<input type="submit" name="submit" id="submit"/>
 </form>
