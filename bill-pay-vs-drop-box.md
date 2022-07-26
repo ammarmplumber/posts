@@ -16,18 +16,3 @@ Self-service kiosks are a viable solution that facilitates after-hours, in-perso
 
 To learn more about our kiosk JACK, schedule a [demo](https://www.adcompsystems.com/contactus.html) here.
 
-<h3 style="text-align:left; font-weight: bold; margin-bottom: .2em;">Subscribe</h3>
-<form action="https://mm.adcompsystems.com/subscribe" method="POST" accept-charset="utf-8">
-	<label for="name">Name</label><br/>
-	<input type="text" name="name" id="name"/>
-	<br><br>
-	<label for="email">Email</label><br/>
-	<input type="email" name="email" id="email"/><br/><div style="display:none;">
-	<label for="hp">HP</label><br/>
-	<input type="text" name="hp" id="hp"/>
-	</div>
-	<input type="hidden" name="list" value="Zxph4P28NIP269XFqiXQZw"/>
-	<input type="hidden" name="subform" value="yes"/>
-     <br><br>
-	<input type="submit" name="submit" id="submit"/>
-</form>
