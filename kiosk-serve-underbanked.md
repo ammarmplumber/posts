@@ -40,7 +40,3 @@ Local governments have an obligation to ensure accessible and equitable service 
 With self-service kiosks, local governments can modernize the in-person payment experience, securely collect cash payments, and extend the reach of their services to benefit vulnerable residents.
 
 To learn more about AdComp’s self-service kiosk, [schedule a product demo here](https://www.adcompsystems.com/contactus.html).
-
-<a href="https://www.adcompsystems.com/subscribe.html">
-<img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>

@@ -41,7 +41,3 @@ The recently passed [Bipartisan Infrastructure](https://www.whitehouse.gov/brief
 
 To learn more about our web payments solution, including our reporting and customer support features,
 [schedule a product demo here.](https://www.adcompsystems.com/contactus.html)
-
-<a href="https://www.adcompsystems.com/subscribe.html">
-<img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>

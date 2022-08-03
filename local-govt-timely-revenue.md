@@ -45,7 +45,3 @@ Ultimately, multi-channel payment solutions together with periodic reminders for
 <br>
 
 To schedule a demo of AdComp’s government payment solutions, [click here.](https://www.adcompsystems.com/contactus.html)
-
-<a href="https://www.adcompsystems.com/subscribe.html">
-<img src="/images/posts/subscribe.webp" loading="lazy"
-     width="30%" /></a>
