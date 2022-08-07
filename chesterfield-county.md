@@ -12,4 +12,4 @@ They say the kiosk is available 24/7, and that it accepts credit and debit cards
 
 [Read the Full Article](https://www.wric.com/news/local-news/chesterfield-county/chesterfield-county-offering-new-payment-kiosk-for-taxes/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FiSG1H8T8MA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FiSG1H8T8MA" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
