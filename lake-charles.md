@@ -1,5 +1,5 @@
 ---
-title: 'Web pay solutions cultivate convenience at Lake Charles'
+title: 'Web pay solutions offer convenience at Lake Charles'
 date: 2022-07-21T17:01:34+07:00
 layout: post
 ---
